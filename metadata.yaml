@@ -1,15 +1,21 @@
 _repo: Old-Quebec-the-city-of-Champlain_48293
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Weaver, Annie E.
     gutenberg_agent_id: '44720'
     url: http://www.gutenberg.org/2009/agents/44720
+covers:
+- cover_type: archival
+  image_path: 48293-h/images/cover.jpg
 creator:
   author:
     agent_name: Weaver, Emily
     gutenberg_agent_id: '44719'
     url: http://www.gutenberg.org/2009/agents/44719
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48293#Old-Quebec-the-city-of-Champlain
 gutenberg_issued: '2015-02-17'
 gutenberg_type: Text
 identifiers:
